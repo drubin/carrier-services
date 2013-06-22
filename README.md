@@ -1,6 +1,10 @@
 # Carrier::Services
 
-TODO: Write a gem description
+Allows you to interact with your carrier via ruby.Often handling the page scraping an all the other nasty.
+
+Current supported networks are.
+
+1. MTN 
 
 ## Installation
 
