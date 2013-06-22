@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["davidrub@gmail.com.com"]
   spec.description   = %q{Allows you to interact with your carrier via ruby. Often handling the page scraping an all the other nasty}
   spec.summary       = %q{Allows you to interact with your carrier via ruby.Often handling the page scraping an all the other nasty}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/drubin/carrier-services"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
